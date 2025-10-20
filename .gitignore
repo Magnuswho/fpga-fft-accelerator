@@ -1,0 +1,26 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Vivado / FPGA
+*.jou
+*.log
+*.rpt
+*.cache/
+*.runs/
+*.gen/
+*.dcp
+*.bit
+*.str
+.Xil/
+.xpr
+
+# Simulation
+sim/*.vvp
+sim/*.vcd
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
